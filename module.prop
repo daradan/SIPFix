@@ -1,0 +1,7 @@
+id=SIPfix
+name=SIP Fix
+version=v1.0
+versionCode=1
+author=daradan
+description=The patch for solving problems in SIP: clicks, intermittent signal, increasing delay, breaking connection.
+minMagisk=1500
