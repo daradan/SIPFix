@@ -1,6 +1,6 @@
 # SIP fix
 
-The patch for solving problems in SIP: clicks, intermittent signal, increasing delay, breaking connection.
+The fix for solving problems in SIP: clicks, intermittent signal, increasing delay, breaking connection.
 
 **Tested on:**
 - Xiaomi Redmi 5 Plus (vince) - miui 9 android 7.*
@@ -13,7 +13,7 @@ The patch for solving problems in SIP: clicks, intermittent signal, increasing d
 5. save changes
 6. reboot phone
 
-Фикс отсутствия голоса в приложении гугл при чтении ответов на поисковый запрос
+Фикс для решения проблем в SIP: щелчки, прерывистый сигнал, увеличение задержки, разрыв соединения.
 
 **Вы можете это сделать сами:**
 1. Необходим рут
